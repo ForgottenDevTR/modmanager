@@ -1,4 +1,4 @@
-# modeditor
+# Minecraft Mod Manager
 An Mod Editor For MC Java
 
 
