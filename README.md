@@ -10,12 +10,11 @@ I will release 1.0 and update README.md asap.
 * Mod Editor
 * Loader Installer
 * Automaticly Detecting Mods
-* and more! (i think)
 
-Details are on the wiki
+# Installation
+First, get the latest release. Install and open the setup file. After setup, open the app. All files will be prepared when the application opens.
 
-
-## 📜 License and Terms of Use
+## License and Terms of Use
 
 All rights reserved. (**All Rights Reserved**)
 
@@ -25,7 +24,7 @@ All rights reserved. (**All Rights Reserved**)
 
 ---
 
-## 💡 Suggestions and Feedback
+## Suggestions and Feedback
 
 Direct code contributions (**Pull Requests**) are currently not accepted, as I prefer to maintain full control over the codebase for now. However, your feedback and ideas are highly valuable!
 
